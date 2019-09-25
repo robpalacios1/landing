@@ -132,6 +132,11 @@ header{
     font-weight: bold;
 }
 
+#testimonial .container .button{
+    padding: 20px;
+    text-align: center;
+}
+
 /* CONTACT FORM */
 
 #form{
